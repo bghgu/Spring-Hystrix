@@ -1,6 +1,6 @@
-# Hystrix 도입 타당성 조사
+# Hystrix
 
-![hystrix-logo](C:\Users\dsbae\Desktop\hystrix-logo.png)
+![logo.png](https://github.com/bghgu/Spring-Hystrix/blob/master/img/logo.png)
 
 ## 1. 개요
 
@@ -43,3 +43,4 @@
 
 * Timeout, Thread Pool 설정 및 관리, Queuing 기능 제공
 
+![hystrix.png](https://github.com/bghgu/Spring-Hystrix/blob/master/img/hystrix.png)
